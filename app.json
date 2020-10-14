@@ -1,7 +1,7 @@
 {
   "name": "Test Universal Link",
   "description": "A barebones ingle Board Computers app",
-  "repository": "https://git.heroku.com/rw-universal-links.git",
+  "repository": "https://github.com/hatimfarhane/universal-links.git",
   "logo": "https://singleboardauchan.herokuapp.com/logo.png",
   "keywords": ["SBC", "universal links"]
 }

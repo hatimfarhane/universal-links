@@ -1,7 +1,7 @@
 {
-  "name": "Test Universal Link",
-  "description": "A barebones ingle Board Computers app",
+  "name": "auchan test universal link",
+  "description": "Auchan test for universal link",
   "repository": "https://github.com/hatimfarhane/universal-links.git",
-  "logo": "https://singleboardauchan2.herokuapp.com/logo.png",
-  "keywords": ["SBC", "universal links"]
+  "logo": "https://auchan.herokuapp.com/logo.png",
+  "keywords": ["test", "auchan"]
 }

@@ -1,9 +1,6 @@
 {
-	"webcredentials": {
-         "apps": ["Q4K837528P.com.auchan-mobile"]
-    	},
 	"applinks": {
-		"apps": ["Q4K837528P.com.auchan-mobile"],
+		"apps": [],
 		"details": [
 			{
 				"appID": "Q4K837528P.com.auchan-mobile",
